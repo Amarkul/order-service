@@ -1,0 +1,13 @@
+server:
+  port: 9092
+
+spring:
+  h2:
+    console:
+      enabled: true
+  application:
+    name: ORDER-SERVICE
+
+logging:
+  file:
+    name: /Users/kulkam5/Desktop/OrderService.log
