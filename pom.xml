@@ -96,6 +96,7 @@
 				<version>0.8.8</version>
 			</plugin>
 		</plugins>
+		<finalName>order-service-1.0.0</finalName>
 	</build>
 
 </project>
